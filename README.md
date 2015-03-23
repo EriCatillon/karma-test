@@ -1,2 +1,2 @@
 # karma-test
-https://travis-ci.org/EriCatillon/karma-test.svg?branch=master
+<img src="https://travis-ci.org/EriCatillon/karma-test.svg?branch=master" alt="">
